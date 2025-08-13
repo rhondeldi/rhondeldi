@@ -30,8 +30,8 @@ I enjoy working on **web development**, **game development**, and **modern tech 
 ---
 
 ## 📊 GitHub Stats
-![Rhondel's GitHub stats](https://github-readme-stats.vercel.app/api?username=RSDIV&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RSDIV&layout=compact&theme=tokyonight)
+![Rhondel's GitHub stats](https://github-readme-stats.vercel.app/api?rhondeldi=RSDIV&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?rhondeldi=RSDIV&layout=compact&theme=tokyonight)
 
 ---
 
