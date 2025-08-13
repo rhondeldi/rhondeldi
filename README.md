@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Rhondel
 
 💡 *A curious learner passionate about creating projects that combine creativity and functionality.*  
-I enjoy working on **web development**, **game development**, and **modern tech stacks**—always looking for opportunities to learn, improve, and build cool things.
+I enjoy working on **web development**, **game development**, and **modern tech stacks**—always exploring ways to learn, improve, and build awesome things.
 
 ---
 
@@ -25,13 +25,13 @@ I enjoy working on **web development**, **game development**, and **modern tech 
 ---
 
 ## 📫 How to Reach Me
-- Email: [divinasfloresrhondel02@gmail.com](mailto:divinasfloresrhondel02@gmail.com)
+- **Email:** [divinasfloresrhondel02@gmail.com](mailto:divinasfloresrhondel02@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats
-![Rhondel's GitHub stats](https://github-readme-stats.vercel.app/api?rhondeldi=RSDIV&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?rhondeldi=RSDIV&layout=compact&theme=tokyonight)
+![Rhondel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhondeldi&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhondeldi&layout=compact&theme=tokyonight)
 
 ---
 
