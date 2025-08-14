@@ -36,7 +36,6 @@ React.js & Tailwind CSS • Firebase & Backend Services • Godot Game Developme
 
 ---
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300" alt="Cat Typing">
 
 ✨ *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
 
