@@ -1,5 +1,7 @@
+<div align="center">
+
 # Hi there 👋 I'm Rhondel  
-![Waving Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Waving Cat">
 
 💡 *A curious learner passionate about creating projects that combine creativity and functionality.*  
 I enjoy working on **web development**, **game development**, and **modern tech stacks**—always exploring ways to learn, improve, and build awesome things.
@@ -7,9 +9,7 @@ I enjoy working on **web development**, **game development**, and **modern tech 
 ---
 
 ## 🌱 Currently Learning
-- React.js & Tailwind CSS  
-- Firebase & Backend Services  
-- Godot Game Development
+React.js & Tailwind CSS • Firebase & Backend Services • Godot Game Development
 
 ---
 
@@ -26,15 +26,18 @@ I enjoy working on **web development**, **game development**, and **modern tech 
 ---
 
 ## 📫 How to Reach Me
-- **Email:** [divinasfloresrhondel02@gmail.com](mailto:divinasfloresrhondel02@gmail.com)
+📧 [divinasfloresrhondel02@gmail.com](mailto:divinasfloresrhondel02@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats
-![Rhondel's GitHub stats](https://github-readme-stats.vercel.app/api?username=RSDIV&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RSDIV&layout=compact&theme=tokyonight)
+![Rhondel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhondeldi&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhondeldi&layout=compact&theme=tokyonight)
 
 ---
 
-![Cat Typing](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)  
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300" alt="Cat Typing">
+
 ✨ *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
+
+</div>
