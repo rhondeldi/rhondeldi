@@ -1,4 +1,5 @@
-# Hi there 👋 I'm Rhondel
+# Hi there 👋 I'm Rhondel  
+![Waving Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 💡 *A curious learner passionate about creating projects that combine creativity and functionality.*  
 I enjoy working on **web development**, **game development**, and **modern tech stacks**—always exploring ways to learn, improve, and build awesome things.
@@ -30,9 +31,10 @@ I enjoy working on **web development**, **game development**, and **modern tech 
 ---
 
 ## 📊 GitHub Stats
-![Rhondel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhondeldi&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhondeldi&layout=compact&theme=tokyonight)
+![Rhondel's GitHub stats](https://github-readme-stats.vercel.app/api?username=RSDIV&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RSDIV&layout=compact&theme=tokyonight)
 
 ---
 
+![Cat Typing](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)  
 ✨ *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
