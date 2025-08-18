@@ -4,14 +4,10 @@
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Waving Cat">
 
 💡 *A curious learner passionate about creating projects that combine creativity and functionality.*  
-I enjoy working on **web development**, **game development**, and **modern tech stacks**—always exploring ways to learn, improve, and build awesome things.
-
----
+I enjoy working on **web development**, **game development**, and exploring **modern tech stacks**—always aiming to learn, improve, and build awesome things.
 
 ## 🌱 Currently Learning
-React.js & Tailwind CSS • Firebase & Backend Services • Godot Game Development
-
----
+**React.js & Tailwind CSS** • **Firebase & Backend Services** • **Godot Game Development**
 
 ## 🛠 Tech Stack
 
@@ -23,19 +19,12 @@ React.js & Tailwind CSS • Firebase & Backend Services • Godot Game Developme
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
----
-
 ## 📫 How to Reach Me
 📧 [divinasfloresrhondel02@gmail.com](mailto:divinasfloresrhondel02@gmail.com)
-
----
 
 ## 📊 GitHub Stats
 ![Rhondel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhondeldi&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhondeldi&layout=compact&theme=tokyonight)
-
----
-
 
 ✨ *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
 
