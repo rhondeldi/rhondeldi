@@ -22,10 +22,6 @@ I enjoy working on **web development**, **game development**, and exploring **mo
 ## 📫 How to Reach Me
 📧 [divinasfloresrhondel02@gmail.com](mailto:divinasfloresrhondel02@gmail.com)
 
-## 📊 GitHub Stats
-![Rhondel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhondeldi&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhondeldi&layout=compact&theme=tokyonight)
-
 ✨ *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
 
 </div>
