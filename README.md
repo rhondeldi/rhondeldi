@@ -7,7 +7,7 @@
 I enjoy working on **web development**, **game development**, and exploring **modern tech stacks**—always aiming to learn, improve, and build awesome things.
 
 ## 🌱 Currently Learning
-**React.js & Tailwind CSS** • **Firebase & Backend Services** • **Godot Game Development**
+**React.js & Tailwind CSS** • **Godot Game Development**
 
 ## 🛠 Tech Stack
 
