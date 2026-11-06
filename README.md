@@ -20,7 +20,7 @@ I enjoy working on **web development**, **game development**, and exploring **mo
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ## 📫 How to Reach Me
-📧 [divinasfloresrhondel02@gmail.com](mailto:rhondel.email@gmail.com)
+📧 [rhondel.email@gmail.com](mailto:rhondel.email@gmail.com)
 
 ✨ *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
 
